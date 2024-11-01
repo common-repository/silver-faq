@@ -1,0 +1,233 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: silver_faq-plugin\n"
+"POT-Creation-Date: 2014-03-07 21:32+0330\n"
+"PO-Revision-Date: 2014-03-07 21:34+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __();_;__\n"
+"X-Poedit-SearchPath-0: \\xampp\\htdocs\\wordpress\\wp-content\\plugins"
+"\\silver-faq\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPath-2: ..\n"
+
+#: ../silver-faq.php:34
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:34
+msgid "Questions"
+msgstr "سوال ها"
+
+#: ../silver-faq.php:35
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:35
+msgid "Question"
+msgstr "سوال"
+
+#: ../silver-faq.php:36
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:36
+msgid "Add New"
+msgstr "افزودن"
+
+#: ../silver-faq.php:37
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:37
+msgid "Add New Question"
+msgstr "افزودن سوال جدید"
+
+#: ../silver-faq.php:38
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:38
+msgid "Answer Question"
+msgstr "پاسخ به سوال"
+
+#: ../silver-faq.php:39
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:39
+#, fuzzy
+msgid "New Question"
+msgstr "افزودن سوال جدید"
+
+#: ../silver-faq.php:40
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:40
+msgid "All Questions"
+msgstr "تمام سوال ها"
+
+#: ../silver-faq.php:41
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:41
+msgid "View Question"
+msgstr "نمایش سوال"
+
+#: ../silver-faq.php:42
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:42
+msgid "Search Questions"
+msgstr "جستجو در سوال ها"
+
+#: ../silver-faq.php:43
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:43
+msgid "No Questions found"
+msgstr "سوالی پیدا نشد"
+
+#: ../silver-faq.php:44
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:44
+msgid "No Question found in Trash"
+msgstr "سوالی در زباله دانی پیدا نشد"
+
+#: ../silver-faq.php:45
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:45
+msgid "FAQ"
+msgstr "FAQ"
+
+#: ../silver-faq.php:74
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:74
+msgid "Enter Question Here"
+msgstr "متن سوال را اینجا وارد کنید"
+
+#: ../silver-faq.php:97
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:97
+msgid "Answer Status"
+msgstr "وضعیت پاسخ "
+
+#: ../silver-faq.php:107 ../silver-faq.php:147
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:107
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:147
+msgid "Unanswered"
+msgstr "پاسخ داده نشده"
+
+#: ../silver-faq.php:109 ../silver-faq.php:148
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:109
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:148
+msgid "Answered"
+msgstr "پاسخ داده شده"
+
+#: ../silver-faq.php:120
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:120
+msgid "Question Setting"
+msgstr "تنظیمات سوال"
+
+#: ../silver-faq.php:140
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:140
+msgid "Answer"
+msgstr "پاسخ"
+
+#: ../silver-faq.php:145
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:145
+msgid "Status"
+msgstr "وضعیت"
+
+#: ../silver-faq.php:152
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:152
+msgid "Asked By"
+msgstr "پرسیده شده توسط"
+
+#: ../silver-faq.php:159
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:159
+msgid "Send Answer Via Email"
+msgstr "ارسال پاسخ با ایمیل"
+
+#: ../silver-faq.php:197
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:197
+#, php-format
+msgid "Dear %s"
+msgstr "%s عزیز"
+
+#: ../silver-faq.php:198
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:198
+msgid "Your Question Was Answered , You Can Read Your Answer Below : "
+msgstr "سوال شما پاسخ داده شد ٬ می توانید پاسخ سوال خود را در زیر بخوانید :"
+
+#: ../silver-faq.php:199
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:199
+#, php-format
+msgid "Question : %s ; Asked On %s"
+msgstr "سوال : %s ;پرسیده شده در %s "
+
+#: ../silver-faq.php:202
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:202
+msgid "Your Question Answered"
+msgstr "سوال شما پاسخ داده شد"
+
+#: ../silver-faq.php:234
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:234
+msgid "FAQ Settings Page"
+msgstr "صفحه تنظیمات FAQ"
+
+#: ../silver-faq.php:234
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:234
+msgid "FAQ Settings"
+msgstr "تنظیمات FAQ"
+
+#: ../silver-faq.php:334
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:334
+msgid "Display Form For Asking Question"
+msgstr "نمایش فرم برای پرسیدن سوال جدید"
+
+#: ../silver-faq.php:335
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:335
+msgid "Ask Question Form"
+msgstr "فرم پرسیدن سوال جدید"
+
+#: ../silver-faq.php:343
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:343
+msgid "Question Form"
+msgstr "فرم سوال"
+
+#: ../silver-faq.php:375
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:375
+msgid ""
+"Thank You , Your Question Submited And Will Be Answered As Soon As Possible, "
+"Check Your Email In Next Couple Of Hour For Answer"
+msgstr ""
+"با تشکر ٬ سوال شما ثبت شد و در اولین فرصت به آن پاسخ داده خواهد شد ٬‌در ساعات "
+"آینده برای دریافت پاسخ ایمیل خود را چک کنید"
+
+#: ../silver-faq.php:392
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:392
+msgid "Didnt Find Your Answer ? Ask It !"
+msgstr "جواب خود را پیدا نکردید ؟ بپرسید !"
+
+#: ../silver-faq.php:399
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:399
+msgid "Name"
+msgstr "نام"
+
+#: ../silver-faq.php:401
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:401
+msgid "Email"
+msgstr "ایمیل"
+
+#: ../silver-faq.php:403
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:403
+msgid "Your Question"
+msgstr "سوال شما"
+
+#: ../silver-faq.php:414
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:414
+msgid "Submit"
+msgstr "ارسال"
+
+#: ../silver-faq.php:425
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:425
+msgid "Error In SendIng Data , Try Agian"
+msgstr "مشکلی در ارسال اطلاعات پیش آمد ٬ لطفا دوباره تلاش کنید"
+
+#: ../silver-faq.php:433
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:433
+msgid "Email Is Not Valid"
+msgstr "ایمیل وارد شده معتبر نیست"
+
+#: ../silver-faq.php:448
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:448
+msgid "Captcha Is Wrong"
+msgstr "Captcha وارد شده معتبر نیست"
+
+#: ../silver-faq.php:466
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/silver-faq.php:466
+msgid "Please Fill All Fields"
+msgstr "لطفا تمام فیلد ها را پرنمایید"
+
+#: ../single-silver_faq-questions.php:20
+#: \xampp\htdocs\wordpress\wp-content\plugins\silver-faq/single-silver_faq-questions.php:20
+msgid "Asked On"
+msgstr "پرسیده شده در"
